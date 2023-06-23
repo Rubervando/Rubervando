@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Rubervando Nogueira
 - 🌱 I’m trabalho em Analista de Teste Automatizado
 - 📫 How to reach me: rubervandocosta10@gmail.com
-- 📱 Whatsapp: (85) 992242422
+- 📲 WhatsApp: (85) 992246422
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubervando-costa-nogueira-4b6bb5271/)
+- [![Liguagem](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
+- [![Rubervando](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/Rubervando/github-readme-stats)
 
 <!---
 Rubervando/Rubervando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
